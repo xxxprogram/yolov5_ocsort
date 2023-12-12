@@ -1,0 +1,10 @@
+
+.idea
+__pycache__
+
+Lib
+Font
+img_out
+
+*.pt
+*.mp4
